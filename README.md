@@ -4,7 +4,7 @@
 # view before enabling the extension
 <img src="https://github.com/krishnadevz/CoronavirusRemover/blob/master/Annotation%202020-02-09%20101503.png" alt="before">
 <br>
-# view after enabling the extension
+<b> view after enabling the extension</b>
 <img src="https://github.com/krishnadevz/CoronavirusRemover/blob/master/Annotation%202020-02-09%20081720.png" alt="after">
     <br>
                                                                                                                            <a href="https://addons.mozilla.org/en-US/firefox/addon/coronavirus-remover/" >ExtensionLinkFirefox</a>         
