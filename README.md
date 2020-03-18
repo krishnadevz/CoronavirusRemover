@@ -14,5 +14,9 @@
 <b><br>Follow Me On twitter For regular Updates 
 <a href="https://twitter.com/krishnadevz">krishnadevz</a>
 
+## Please Follow official WHO(world health organization) instructions 
+* You can find WHO instructions [WHO Official Website👈](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+
+
 
 # Thank You For Reaching here God bless Peace👋🙏
